@@ -1,0 +1,241 @@
+ManifestFileVersion: 0
+CRC: 4010760020
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: panelbg_prefab
+      Dependencies: {}
+    Info_1:
+      Name: panellogin_prefab
+      Dependencies: {}
+    Info_2:
+      Name: panelregist_prefab
+      Dependencies: {}
+    Info_3:
+      Name: panelprompt_prefab
+      Dependencies: {}
+    Info_4:
+      Name: panelmainbg_prefab
+      Dependencies: {}
+    Info_5:
+      Name: panelmatch_prefab
+      Dependencies: {}
+    Info_6:
+      Name: panelsetting_prefab
+      Dependencies: {}
+    Info_7:
+      Name: panelcreate_prefab
+      Dependencies: {}
+    Info_8:
+      Name: panelplayerinfo_prefab
+      Dependencies: {}
+    Info_9:
+      Name: panelfightbg_prefab
+      Dependencies: {}
+    Info_10:
+      Name: panelup_prefab
+      Dependencies:
+        Dependency_0: cardback_png
+    Info_11:
+      Name: panelselfplayer_prefab
+      Dependencies:
+        Dependency_0: clubeight_png
+    Info_12:
+      Name: panelrightplayer_prefab
+      Dependencies:
+        Dependency_0: cardback_png
+    Info_13:
+      Name: panelleftplayer_prefab
+      Dependencies:
+        Dependency_0: cardback_png
+    Info_14:
+      Name: panelchat_prefab
+      Dependencies: {}
+    Info_15:
+      Name: panelover_prefab
+      Dependencies: {}
+    Info_16:
+      Name: paneluid_prefab
+      Dependencies: {}
+    Info_17:
+      Name: chat1_ogg
+      Dependencies: {}
+    Info_18:
+      Name: chat2_ogg
+      Dependencies: {}
+    Info_19:
+      Name: chat3_ogg
+      Dependencies: {}
+    Info_20:
+      Name: cardback_png
+      Dependencies: {}
+    Info_21:
+      Name: clubeight_png
+      Dependencies: {}
+    Info_22:
+      Name: clubfive_png
+      Dependencies: {}
+    Info_23:
+      Name: clubfour_png
+      Dependencies: {}
+    Info_24:
+      Name: clubjack_png
+      Dependencies: {}
+    Info_25:
+      Name: clubking_png
+      Dependencies: {}
+    Info_26:
+      Name: clubnine_png
+      Dependencies: {}
+    Info_27:
+      Name: clubone_png
+      Dependencies: {}
+    Info_28:
+      Name: clubqueen_png
+      Dependencies: {}
+    Info_29:
+      Name: clubseven_png
+      Dependencies: {}
+    Info_30:
+      Name: clubsix_png
+      Dependencies: {}
+    Info_31:
+      Name: clubten_png
+      Dependencies: {}
+    Info_32:
+      Name: clubthree_png
+      Dependencies: {}
+    Info_33:
+      Name: clubtwo_png
+      Dependencies: {}
+    Info_34:
+      Name: hearteight_png
+      Dependencies: {}
+    Info_35:
+      Name: heartfive_png
+      Dependencies: {}
+    Info_36:
+      Name: heartfour_png
+      Dependencies: {}
+    Info_37:
+      Name: heartjack_png
+      Dependencies: {}
+    Info_38:
+      Name: heartking_png
+      Dependencies: {}
+    Info_39:
+      Name: heartnine_png
+      Dependencies: {}
+    Info_40:
+      Name: heartone_png
+      Dependencies: {}
+    Info_41:
+      Name: heartqueen_png
+      Dependencies: {}
+    Info_42:
+      Name: heartseven_png
+      Dependencies: {}
+    Info_43:
+      Name: heartsix_png
+      Dependencies: {}
+    Info_44:
+      Name: heartten_png
+      Dependencies: {}
+    Info_45:
+      Name: heartthree_png
+      Dependencies: {}
+    Info_46:
+      Name: hearttwo_png
+      Dependencies: {}
+    Info_47:
+      Name: ljoker_png
+      Dependencies: {}
+    Info_48:
+      Name: sjoker_png
+      Dependencies: {}
+    Info_49:
+      Name: spadeeight_png
+      Dependencies: {}
+    Info_50:
+      Name: spadefive_png
+      Dependencies: {}
+    Info_51:
+      Name: spadefour_png
+      Dependencies: {}
+    Info_52:
+      Name: spadejack_png
+      Dependencies: {}
+    Info_53:
+      Name: spadeking_png
+      Dependencies: {}
+    Info_54:
+      Name: spadenine_png
+      Dependencies: {}
+    Info_55:
+      Name: spadeone_png
+      Dependencies: {}
+    Info_56:
+      Name: spadequeen_png
+      Dependencies: {}
+    Info_57:
+      Name: spadeseven_png
+      Dependencies: {}
+    Info_58:
+      Name: spadesix_png
+      Dependencies: {}
+    Info_59:
+      Name: spadeten_png
+      Dependencies: {}
+    Info_60:
+      Name: spadethree_png
+      Dependencies: {}
+    Info_61:
+      Name: spadetwo_png
+      Dependencies: {}
+    Info_62:
+      Name: squareeight_png
+      Dependencies: {}
+    Info_63:
+      Name: squarefive_png
+      Dependencies: {}
+    Info_64:
+      Name: squarefour_png
+      Dependencies: {}
+    Info_65:
+      Name: squarejack_png
+      Dependencies: {}
+    Info_66:
+      Name: squareking_png
+      Dependencies: {}
+    Info_67:
+      Name: squarenine_png
+      Dependencies: {}
+    Info_68:
+      Name: squareone_png
+      Dependencies: {}
+    Info_69:
+      Name: squarequeen_png
+      Dependencies: {}
+    Info_70:
+      Name: squareseven_png
+      Dependencies: {}
+    Info_71:
+      Name: squaresix_png
+      Dependencies: {}
+    Info_72:
+      Name: squareten_png
+      Dependencies: {}
+    Info_73:
+      Name: squarethree_png
+      Dependencies: {}
+    Info_74:
+      Name: squaretwo_png
+      Dependencies: {}
+    Info_75:
+      Name: cardprefab_prefab
+      Dependencies:
+        Dependency_0: clubeight_png
+    Info_76:
+      Name: backcardprefab_prefab
+      Dependencies:
+        Dependency_0: cardback_png

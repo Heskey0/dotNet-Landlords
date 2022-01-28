@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1716484147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40d1f53f106a900ac3188852f275be4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Poker/SquareFour.png
+Dependencies: []

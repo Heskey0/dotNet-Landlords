@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3058489109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a279b21610570f91a0597efa34d75163
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Poker/SpadeFour.png
+Dependencies: []

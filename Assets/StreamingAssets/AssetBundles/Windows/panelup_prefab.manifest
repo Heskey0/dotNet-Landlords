@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3666714754
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4345e20d949786a95d954384e736e56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 040a103b3b8de856b15fec038fc09e68
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cab9bd8dbc8d29248bbe93a6859a139d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdff9d77e7f500349bf542477e897f89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIPrefab/2.Fight/PanelUp.prefab
+Dependencies:
+- D:/Unity/Projiect/Game3/AssetBundles/Windows/cardback_png

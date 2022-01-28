@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2233147104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3339a649ecef8db952eaa2d2902bda6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Sound/Chat/Chat3.ogg
+Dependencies: []

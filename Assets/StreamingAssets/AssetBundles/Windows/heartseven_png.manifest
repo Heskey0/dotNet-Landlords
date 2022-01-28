@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 380231270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46ef6c1ed90249f1273eb8601355bee3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Poker/HeartSeven.png
+Dependencies: []

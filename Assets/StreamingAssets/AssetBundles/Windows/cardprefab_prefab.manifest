@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4267673133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d4312456d7ecc0864bc6df3925a5655
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 964d44a18c8ba4c690c6da6668b535b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c761fd898347c2d4cb1c290549e0d6f4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/FightPrefab/CardPrefab.prefab
+Dependencies:
+- D:/Unity/Projiect/Game3/AssetBundles/Windows/clubeight_png

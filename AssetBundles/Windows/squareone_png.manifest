@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 186406505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d38dad55110bf9805ade4d2f1ef3a04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Poker/SquareOne.png
+Dependencies: []

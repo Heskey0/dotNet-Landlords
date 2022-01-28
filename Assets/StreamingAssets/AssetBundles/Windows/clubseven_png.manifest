@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 596098764
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f686a5d8c95058ddbbc3bc2338448a1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Poker/ClubSeven.png
+Dependencies: []
